@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  padding: 1rem;
+}
+body {
+  background-color: #eee;
+}
+.card {
+  background-color: aqua;
+}
+
+img {
+  width: 2.4rem;
+}
+.image {
+  color: aqua;
+}
